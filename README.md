@@ -163,9 +163,9 @@
 
 <p align="center">
 <a href="#">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=edgardoguzman08&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" weight="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=edgardoguzman08&layout=compact&langs_count=8&theme=algolia"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edgardoguzman08&theme=algolia" alt="candida18"  />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=edgardoguzman31&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" weight="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=edgardoguzman31&layout=compact&langs_count=8&theme=algolia"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edgardoguzman31&theme=algolia" alt="candida18"  />
   </a>
 </p>
 
