@@ -22,7 +22,8 @@
 <hr>
 👉 About Me
   &emsp;
-<p>I am a 22 year old systems engineer who does web and mobile development, I like to learn new things, to be self-taught in order to improve my programming skills.</p>
+<p>I am a systems engineer, 23 years old, I am dedicated to web and mobile development, I like to learn new things, I am constantly improving as I am very self-taught. 
+I use different frameworks with php like laravel, codeigniter4, voyager.</p>
 <hr>
 
 ### 🛠️ My Skills
